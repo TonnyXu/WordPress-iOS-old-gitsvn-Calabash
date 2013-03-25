@@ -18,3 +18,5 @@ DerivedData
 .idea/
 index.html
 manifest.plist
+.irb-history
+*.pbxproj.bak
